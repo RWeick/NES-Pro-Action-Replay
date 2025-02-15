@@ -5699,7 +5699,7 @@
 		)
 		(uuid "086eca81-5bde-4264-bfc4-3530d9f61fcf")
 	)
-	(label "PPU_EN"
+	(label "~{PAR_CHRROM_EN}"
 		(at 346.71 74.93 0)
 		(effects
 			(font
@@ -6029,7 +6029,7 @@
 		)
 		(uuid "2a3d3b0a-949f-4513-ac08-b361edb683f1")
 	)
-	(label "PPU_Game_EN"
+	(label "~{GAME_CHRROM_EN}"
 		(at 346.71 80.01 0)
 		(effects
 			(font
@@ -6069,7 +6069,7 @@
 		)
 		(uuid "2c06607a-8551-4fb0-87bf-ef6b88d5cd53")
 	)
-	(label "CPU_Game_EN"
+	(label "~{GAME_PRGROM_EN}"
 		(at 302.26 80.01 0)
 		(effects
 			(font
@@ -6589,7 +6589,7 @@
 		)
 		(uuid "5479656f-f891-462c-a5a5-86b903771e98")
 	)
-	(label "PPU_EN"
+	(label "~{PAR_CHRROM_EN}"
 		(at 337.82 45.72 180)
 		(effects
 			(font
@@ -6609,7 +6609,7 @@
 		)
 		(uuid "553e3f95-d085-4a55-b284-494239b4e345")
 	)
-	(label "CPU_EN"
+	(label "~{PAR_PRGROM_EN}"
 		(at 299.72 199.39 0)
 		(effects
 			(font
@@ -6899,7 +6899,7 @@
 		)
 		(uuid "6c939115-06b8-48bd-91d6-1395b8a56348")
 	)
-	(label "CPU_EN"
+	(label "~{PAR_PRGROM_EN}"
 		(at 302.26 74.93 0)
 		(effects
 			(font
@@ -6969,7 +6969,7 @@
 		)
 		(uuid "725e75aa-8788-4551-8c39-42a99718f0c0")
 	)
-	(label "CPU_Game_EN"
+	(label "~{GAME_PRGROM_EN}"
 		(at 287.02 74.93 180)
 		(effects
 			(font
@@ -7099,7 +7099,7 @@
 		)
 		(uuid "7b95cc61-955b-4dde-a515-5096d12a411d")
 	)
-	(label "PPU_Game_EN"
+	(label "~{GAME_CHRROM_EN}"
 		(at 337.82 29.21 180)
 		(effects
 			(font
@@ -7229,7 +7229,7 @@
 		)
 		(uuid "8379d5e2-8dca-466c-9a40-566e775217d2")
 	)
-	(label "CPU_EN"
+	(label "~{PAR_PRGROM_EN}"
 		(at 293.37 30.48 180)
 		(effects
 			(font
@@ -7329,7 +7329,7 @@
 		)
 		(uuid "899d4306-1989-40f1-9633-79a49a005b17")
 	)
-	(label "CPU_Game_EN"
+	(label "~{GAME_PRGROM_EN}"
 		(at 293.37 50.8 180)
 		(effects
 			(font
@@ -7479,7 +7479,7 @@
 		)
 		(uuid "92e258ec-8534-4e39-ae05-19c7cb553a71")
 	)
-	(label "PPU_EN"
+	(label "~{PAR_CHRROM_EN}"
 		(at 299.72 207.01 0)
 		(effects
 			(font
@@ -8219,7 +8219,7 @@
 		)
 		(uuid "d4a1fab7-bff9-4c7a-9043-62812ee410c3")
 	)
-	(label "CPU_EN"
+	(label "~{PAR_PRGROM_EN}"
 		(at 379.73 69.85 180)
 		(effects
 			(font
