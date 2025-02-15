@@ -9732,7 +9732,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "27C256 - PLCC32"
+		(property "Value" "27C256 - PLCC32 - PPU"
 			(at 136.8141 139.7 0)
 			(effects
 				(font
@@ -10436,7 +10436,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "27C256 - PLCC32"
+		(property "Value" "27C256 - PLCC32 - CPU"
 			(at 187.6141 139.7 0)
 			(effects
 				(font
