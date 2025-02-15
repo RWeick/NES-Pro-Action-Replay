@@ -1,5 +1,5 @@
 # NES-Pro-Action-Replay
-Everything necessary to produce the Pro Action Replay for the NES
+Everything necessary to produce the Pro Action Replay for the NES. Happy making.
 
 PCB Thickness: 1.6 mm
 
